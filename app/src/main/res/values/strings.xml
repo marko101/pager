@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pager</string>
+    <!-- Tekstovi za godišnja doba -->
+    <string name="prolece">Proleće počinje 21. marta, završava se 20. juna i traje 92 dana. Prosečna temperatura na teritoriji Srbije je 12°C.</string>
+    <string name="leto">Leto počinje 21. juna, završava se 22. septembra i traje 94 dana. Prosečna temperatura na teritoriji Srbije je 23°C.</string>
+    <string name="jesen">Jesen počinje 23. septembra, završava se 21. decembra i traje 89 dana. Prosečna temperatura na teritoriji Srbije je 14°C.</string>
+    <string name="zima">Zima počinje 22. decembra, završava se 20. marta i traje 89 dana. Prosečna temperatura na teritoriji Srbije je 1°C.</string>
+</resources>
